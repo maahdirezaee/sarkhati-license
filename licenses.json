@@ -1,5 +1,11 @@
 {
   "توضیح": "تاریخ‌ها شمسی و به وقت تهران. برای لغو active را false کنید.",
   "message": "",
-  "licenses": {}
+  "licenses": {
+    "AD5B09": {
+      "name": "test",
+      "until": "1405/07/29 23:59",
+      "active": true
+    }
+  }
 }
